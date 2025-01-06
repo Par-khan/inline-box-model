@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.html{
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+    border: 8px solid rgb(53, 29, 173);
+    width: 300px;
+    display: block;
+}
+iframe{
+    width: 300px;
+    height: 600px;
+    margin: 40px;
+    border: 8px solid rgb(53, 29, 173);
+}
